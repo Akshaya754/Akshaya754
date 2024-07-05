@@ -5,7 +5,7 @@ Welcome to my github profile!
 ## About Me
 
 - Currently working as Front end Developer
-- Languages : HTML, CSS, Jvascript, Reactjs
+- Languages : HTML, CSS, Javascript, ReactJs, NodeJs
 - Db: Firebase, mongoDB
 - Learning new technologies to broaden my skills.
 
